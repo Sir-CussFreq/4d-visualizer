@@ -1,0 +1,6 @@
+matplotlib>=3.0
+scipy>=1.5
+numpy>=1.19
+
+# Optional: Comment the following line if you don't want to use CuPy for GPU acceleration
+cupy
